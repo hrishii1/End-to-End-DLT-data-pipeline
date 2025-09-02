@@ -6,7 +6,7 @@ This project demonstrates the design and implementation of an end-to-end data pi
 
 The project emphasizes scalability, reliability, and automation, incorporating performance tuning techniques and modern orchestration tools like GitHub Actions and Apache Airflow.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/20302d83-d6b7-40a3-b9e8-8e429217ad72" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb96fd1a-df8b-4e90-859a-4896a2dc23bd" />
 
 
 # 🚀 Key Features
